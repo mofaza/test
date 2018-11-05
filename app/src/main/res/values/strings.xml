@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="confirm">Confirm</string>
+    <string name="remove">Remove</string>
+    <string name="cannot_write">Can\'t write to file</string>
+    <string name="cannot_read">Couldn\'t read list</string>
+</resources>
